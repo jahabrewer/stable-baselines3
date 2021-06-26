@@ -11,7 +11,7 @@ Stable-Baselines3 requires python 3.6+.
 Windows 10
 ~~~~~~~~~~
 
-We recommend using `Anaconda <https://conda.io/docs/user-guide/install/windows.html>`_ for Windows users for easier installation of Python packages and required libraries. You need an environment with Python version 3.6 or above.
+We recommend using `Anaconda <https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html>`_ for Windows users for easier installation of Python packages and required libraries. You need an environment with Python version 3.6 or above.
 
 For a quick start you can move straight to installing Stable-Baselines3 in the next step.
 
